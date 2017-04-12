@@ -1,3 +1,3 @@
 # hello-world
 just say hello
-start to use github
+and start to use github
